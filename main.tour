@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Create your student portfolio",
+  "steps": [
+    {
+      "file": "index.html",
+      "line": 3,
+      "description": "Lesson 1: HTML\n\n---\n\nHere is your template web page written in HTML. For this lesson we will guide you through each step to learn while you build out your own site.\n\n---\n\nStep 1: This is the title tag that is displayed in the tab of your browser. Update this value to 'Portfolio site for ' followed by your name\n\nOnce your done, click the `Next` link below 👇"
+    },
+    {
+      "file": "index.html",
+      "line": 6,
+      "description": "Step 2: The H1 tag is the main hading tag for your page. Update this to your name."
+    },
+    {
+      "file": "script.js",
+      "line": 33,
+      "description": "This specifies the message that is displayed when you win the game. Change it to something different, and then play the game a few times until you win (and see your custom message!).\n\nOnce your finished, click the `Finish Tour` link below, and explore the app on your own. Thanks for trying this sample out!"
+    }
+  ]
+}
