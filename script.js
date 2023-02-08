@@ -15,4 +15,4 @@ function messageLooper () {
 	loopTimer = setTimeout('messageLooper()', 70); /* change 70 for speed */
 }
 
-messageLooper();
+// messageLooper();
