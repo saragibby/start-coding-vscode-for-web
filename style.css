@@ -1,0 +1,20 @@
+body {
+  background: rgb(36, 58, 94);
+  color: white
+}
+
+h1 {
+  color: #50E6FF;
+  font-size: 50px;
+  /* Add the style to center your H1 heading. */
+}
+
+/* Add a color and font size of your H2 heading. */
+/* h2 {
+  
+} */
+
+/* Add a font size and family to your paragraph body text. */
+/* p {
+
+} */
