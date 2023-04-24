@@ -3,6 +3,6 @@
         "codespaces-contrib.codeswing",
         "vsls-contrib.codetour",
         "ms-azuretools.vscode-azureresourcegroups",
-        "ms-azuretools.vscode-azurestaticwebapp"
+        "ms-azuretools.vscode-azurestaticwebapps"
     ]
 }
