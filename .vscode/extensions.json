@@ -1,6 +1,8 @@
 {
     "recommendations": [
         "codespaces-contrib.codeswing",
-        "vsls-contrib.codetour"
+        "vsls-contrib.codetour",
+        "ms-azuretools.vscode-azureresourcegroups",
+        "ms-azuretools.vscode-azurestaticwebapp"
     ]
 }

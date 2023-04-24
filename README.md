@@ -13,5 +13,6 @@ This repo provides a simple example of how [vscode.dev](https://code.visualstudi
 
 
 ## Resources
+1. [vscode.dev](https://code.visualstudio.com/docs/editor/vscode-web) - Visual Studio Code for the Web 📝
 1. [CodeSwing](https://aka.ms/codeswing) - An interactive coding environment for web applications 💃
 1. [CodeTour](https://aka.ms/codetour) - Guided codebase walkthroughs, directly in your editor 🗺️
